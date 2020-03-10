@@ -1,0 +1,8 @@
+
+terraform
+UAT/bucket.json
+UAT/.terraform/modules/modules.json
+UAT/.terraform/plugins/darwin_amd64/lock.json
+UAT/.terraform/plugins/darwin_amd64/terraform-provider-aws_v2.52.0_x4
+UAT/.DS_Store
+module/.DS_Store
